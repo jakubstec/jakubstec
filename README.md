@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+checkout my projects:
+quizzMeAI - quizz-me-ai-4o1i.vercel.app/ 
+
 <!--
 **jakubstec/jakubstec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
